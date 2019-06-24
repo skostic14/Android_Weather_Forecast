@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Vremenska prognoza</string>
+    <string name="loc_hint">Unesi novi grad</string>
+    <string name="loc_add">Dodaj grad</string>
+    <string name="loc_text">Lokacija za prikaz vremenske prognoze</string>
+    <string name="show">Prikaži</string>
+    <string name="loc">Lokacija: </string>
+    <string name="locph">Novi Sad</string>
+    <string name="day">Dan: </string>
+    <string name="dayph">Subota</string>
+    <string name="temp_btn">Temperatura</string>
+    <string name="sunrise_btn">Izlazak/Zalazak sunca</string>
+    <string name="wind_btn">Vetar</string>
+    <string name="temp">Temperatura:</string>
+    <string name="pres">Pritisak:</string>
+    <string-array name="tempunits">
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+    <string name="humi">Vlaznost vazduha:</string>
+    <string name="unit">Jedinica:</string>
+    <string name="sunr">Izlazak sunca:</string>
+    <string name="suns">Zalazak sunca:</string>
+    <string name="wspd">Brzina vetra:</string>
+    <string name="wdir">Pravac:</string>
+    <string name="lastweek">Poslednja nedelja:</string>
+
+    <string name="mon">Ponedeljak</string>
+    <string name="tue">Utorak</string>
+    <string name="wed">Sreda</string>
+    <string name="thu">Četvrtak</string>
+    <string name="fri">Petak</string>
+    <string name="sat">Subota</string>
+    <string name="sun">Nedelja</string>
+
+    <string name="minTemp">Minimalna temperatura:</string>
+    <string name="maxTemp">Maksimalna temperatura:</string>
+    <string name="statistics">Statistika</string>
+    <string name="statDay">Dan</string>
+    <string name="statTemp">Temperatura</string>
+    <string name="statPres">Pritisak</string>
+    <string name="statHumi">Vlažnost vazduha</string>
+    <string name="lastUpd">Poslednji update</string>
+
+    <string name="stopServ">Zaustavi obaveštenja</string>
+</resources>
